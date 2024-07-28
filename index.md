@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <img class="logo" src="_images/mvglogo.png" alt="GuneyMV GIS Inc. Logo">
+        <img class="logo" src="_images/mvglogo.png" alt="GuneyMV GIS Inc. Logo"><img>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
