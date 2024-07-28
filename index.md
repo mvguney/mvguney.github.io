@@ -29,11 +29,9 @@
         </section>
         <section id="biography">
             <h2>Founder Biography</h2>
-
         </section>
         <section id="thesis">
             <h2>Thesis Project</h2>
-
         </section>
         <section id="about">
             <h2>About Us</h2>
@@ -44,7 +42,6 @@
         </section>
         <section id="contact">
             <h2>Contact</h2>
-
         </section>
     </main>
     <footer>
